@@ -77,13 +77,13 @@ Evaluate the model's performance using the evaluation script.
 python scripts/evaluate_model.py
 ```
 
-##### Jupyter Notebooks #####
+## Jupyter Notebooks ##
 
 The project includes the following Jupyter notebooks for exploration, training, and demonstration:
 
-# data_exploration.ipynb: Explore and visualize the dataset to understand its structure and content.
-# model_training.ipynb: Train and evaluate the Seq2Seq model. Includes model training, fine-tuning, and evaluation.
-# demo.ipynb: Interactive notebook for testing the model. Users can input a query and receive a generated response.
+data_exploration.ipynb: Explore and visualize the dataset to understand its structure and content.
+model_training.ipynb: Train and evaluate the Seq2Seq model. Includes model training, fine-tuning, and evaluation.
+demo.ipynb: Interactive notebook for testing the model. Users can input a query and receive a generated response.
 
 To use the notebooks:
 
